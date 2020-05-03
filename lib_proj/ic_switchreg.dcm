@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TPS54326
+D buck regulator
+K buck regulator
+F http://www.ti.com/lit/ds/symlink/tps54326.pdf?ts=1588052877966
+$ENDCMP
+#
+#End Doc Library

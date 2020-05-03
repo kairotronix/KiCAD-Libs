@@ -1,0 +1,7 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PCM1753
+F http://www.ti.com/lit/ds/symlink/pcm1753.pdf
+$ENDCMP
+#
+#End Doc Library

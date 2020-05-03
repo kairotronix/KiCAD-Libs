@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ATSAMD11D
+D 32bit MCU 16KB FLASH
+K MCU ARM M0 SAM D11D
+F http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-42363-SAM-D11_Datasheet.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 74AUP1T157
+D Multiplexer 2:1
+K MUX 2:1
+F http://www.ti.com/lit/ds/symlink/sn74aup1t157.pdf?ts=1587894094742
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,18 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# 3mm_hole
+#
+DEF 3mm_hole MNT 0 0 N N 1 F N
+F0 "MNT" 0 250 50 H V C CNN
+F1 "3mm_hole" 100 150 50 H V C CNN
+F2 "" 0 250 50 H I C CNN
+F3 "" 0 250 50 H I C CNN
+DRAW
+C 0 0 71 0 1 0 F
+S -100 100 100 -100 0 1 0 f
+X 1 1 0 -200 100 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+#End Library

@@ -1,0 +1,11 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NSP4201MR6
+F https://www.onsemi.com/pub/Collateral/NSP4201MR6-D.PDF
+$ENDCMP
+#
+$CMP VBUS053A
+F http://www.vishay.com/docs/81845/vbus053a.pdf
+$ENDCMP
+#
+#End Doc Library

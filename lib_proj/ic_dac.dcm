@@ -1,0 +1,11 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LM49450
+F http://www.ti.com/lit/ds/symlink/lm49450.pdf?ts=1587817706496
+$ENDCMP
+#
+$CMP PCM1753
+F http://www.ti.com/lit/ds/symlink/pcm1753.pdf
+$ENDCMP
+#
+#End Doc Library

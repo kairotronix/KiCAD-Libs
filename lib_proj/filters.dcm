@@ -1,0 +1,11 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BNX025H01L
+F https://www.murata.com/en-us/products/productdata/8796778004510/QNFH9101.pdf
+$ENDCMP
+#
+$CMP FILTER_LC(T)
+F https://www.murata.com/en-global/products/productdata/8796766699550/ENFE0002.pdf
+$ENDCMP
+#
+#End Doc Library

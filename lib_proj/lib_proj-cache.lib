@@ -1,0 +1,20 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# resistors_4.7kOhm
+#
+DEF resistors_4.7kOhm R 0 40 Y Y 1 F N
+F0 "R" -350 250 50 H V C CNN
+F1 "resistors_4.7kOhm" -150 -200 50 H V C CNN
+F2 "" -350 250 50 H I C CNN
+F3 "" -350 250 50 H I C CNN
+F4 "XXX W" -150 -300 50 H V C CNN "Power"
+F5 "XX %" -200 -400 50 H V C CNN "Tolerance"
+DRAW
+P 8 0 1 0 -150 0 -125 50 -75 -50 -25 50 25 -50 75 50 125 -50 150 0 N
+X ~ ~ -250 0 100 R 50 50 1 1 P
+X ~ ~ 250 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+#End Library

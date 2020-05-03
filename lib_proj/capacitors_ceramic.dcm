@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 1.0pF
+D capacitor ceramic 1.0pF
+K cap capacitor ceramic 1.0 pF
+$ENDCMP
+#
+#End Doc Library
