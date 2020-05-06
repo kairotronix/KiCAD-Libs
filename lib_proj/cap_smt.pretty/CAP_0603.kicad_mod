@@ -1,4 +1,5 @@
-(module CAP_0603 (layer F.Cu) (tedit 5EA834CA)
+(module CAP_0603 (layer F.Cu) (tedit 5EB27B18)
+  (attr smd)
   (fp_text reference REF** (at 0 -2) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
