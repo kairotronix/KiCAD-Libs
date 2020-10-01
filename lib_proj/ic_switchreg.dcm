@@ -1,8 +1,8 @@
 EESchema-DOCLIB  Version 2.0
 #
 $CMP TPS54326
-D buck regulator
-K buck regulator
+D Buck regulator 3A 18V in max
+K buck reg 3A 18V
 F http://www.ti.com/lit/ds/symlink/tps54326.pdf?ts=1588052877966
 $ENDCMP
 #

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AP2114H-3V3
+D 6V in max 3V3 1A regulator
+K 3V3 1A Regulator
+F https://www.diodes.com/assets/Datasheets/AP2114.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 3Terminal_Trim
+D 3 Terminal Trim Pot
+K trim pot 3 term
+$ENDCMP
+#
+#End Doc Library

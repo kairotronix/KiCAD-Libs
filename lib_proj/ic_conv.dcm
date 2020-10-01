@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP FT2232HL
+D FTDI USB to quad serial bus
+K FTDI USB serial
+$ENDCMP
+#
+#End Doc Library

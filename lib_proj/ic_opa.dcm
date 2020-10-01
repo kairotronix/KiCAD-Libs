@@ -1,6 +1,20 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP LM393ADGKR
+D Dual comparator 5V
+K Dual comparator
+F https://www.ti.com/lit/ds/symlink/lm393a.pdf?ts=1600942722723&ref_url=https%253A%252F%252Fwww.ti.com%252Fstore%252Fti%252Fen%252Fp%252Fproduct%252F%253Fp%253DLM393ADGKR
+$ENDCMP
+#
+$CMP NCS20074DR2G
+D Quad rail-to-rail op amp 36V max
+K rail-to-rail quad opa 36V
+F https://www.onsemi.com/pub/Collateral/NCS20071-D.PDF
+$ENDCMP
+#
 $CMP OPA2353
+D Dual rail-to-rail 5.5V op amp
+K dual opa rail-to-rail 5.5V
 F http://www.ti.com/lit/ds/symlink/opa353.pdf
 $ENDCMP
 #

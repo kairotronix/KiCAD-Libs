@@ -1,10 +1,19 @@
 EESchema-DOCLIB  Version 2.0
 #
 $CMP LM49450
+D 24-bit I2S Stereo DAC with speaker driver
+K I2S DAC 24-bit stereo speaker driver
 F http://www.ti.com/lit/ds/symlink/lm49450.pdf?ts=1587817706496
 $ENDCMP
 #
+$CMP MCP4726A0T-E_CH
+D I2C DAC 12Bit 5.5V max R-2R
+K DAC R-2R 12bit 5.5V
+$ENDCMP
+#
 $CMP PCM1753
+D 24-bit I2S stereo DAC
+K I2S DAC stereo
 F http://www.ti.com/lit/ds/symlink/pcm1753.pdf
 $ENDCMP
 #

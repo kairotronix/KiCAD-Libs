@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MCP4018T-103E_LT
+D Digital pot I2C 10K
+K pot i2c 10k
+F https://ww1.microchip.com/downloads/en/DeviceDoc/22147a.pdf
+$ENDCMP
+#
+#End Doc Library

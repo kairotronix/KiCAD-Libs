@@ -1,0 +1,17 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ADJH21005
+D SPST NO 5V Relay
+K SPST NO 5V Relay
+$ENDCMP
+#
+$CMP AZSR143-1AE-12D
+D SPST NO 12V Relay
+K SPST NO 12V Relay
+$ENDCMP
+#
+$CMP J115F11AH12VDCS61.5U
+F https://www.citrelay.com/Catalog%20Pages/RelayCatalog/J115F%2050amp.pdf
+$ENDCMP
+#
+#End Doc Library

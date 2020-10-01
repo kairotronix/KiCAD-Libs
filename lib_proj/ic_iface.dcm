@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LT1025
+D Micropower Thermocouple Cold Junction Compensator
+K thermocouple compensator
+F https://www.analog.com/media/en/technical-documentation/data-sheets/1025fb.pdf
+$ENDCMP
+#
+#End Doc Library
